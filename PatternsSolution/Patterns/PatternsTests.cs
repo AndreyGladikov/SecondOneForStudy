@@ -38,7 +38,7 @@ namespace Patterns
             loginPage.Login("AutoTest92", "Inq2020327");
             HomePage homePage = new HomePage(driver);
             homePage.LogOut();
-            Assert.IsTrue(loginPage.Check());
+            Assert.IsTrue(loginPage.Check(), "You are not looged out");
         }
 
         [TestCleanup]

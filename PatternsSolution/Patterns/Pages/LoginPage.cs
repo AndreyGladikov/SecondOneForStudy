@@ -16,15 +16,15 @@ namespace Patterns.Pages
         public const string MailPWD = "Inq2020327";
 
         private IWebDriver driver;
-        
+
         [FindsBy(How = How.XPath, Using = "//a[@data-target-popup='authorize-form']")]
-        private IWebElement LoginPopUp { get; set; }
+        private IWebElement LoginPopUp;
         [FindsBy(How = How.XPath, Using = "//div[@class='i-holder']//input[@type='text']")]
-        private IWebElement LoginField { get; set; }
+        private IWebElement LoginField;
         [FindsBy(How = How.XPath, Using = "//input[@type='password']")]
-        private IWebElement PasswordField { get; set; }
+        private IWebElement PasswordField;
         [FindsBy(How = How.XPath, Using = "//input[@value='Войти']")]
-        private IWebElement LoginButton { get; set; }
+        private IWebElement LoginButton;
 
         public LoginPage(IWebDriver driver)
         {
@@ -49,3 +49,4 @@ namespace Patterns.Pages
     }
 }
 
+//comment for PR
