@@ -32,7 +32,6 @@ namespace Patterns.Pages
             PageFactory.InitElements(driver, this);
         }
 
-
         public void Login(string username, string password)
         {
             driver.Navigate().GoToUrl(MailURL);
@@ -49,4 +48,3 @@ namespace Patterns.Pages
     }
 }
 
-//comment for PR

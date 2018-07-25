@@ -34,6 +34,7 @@ namespace Patterns
         [TestCategory("Chrome")]
         public void MailLogOut()
         {
+
             LoginPage loginPage = new LoginPage(driver);
             loginPage.Login("AutoTest92", "Inq2020327");
             HomePage homePage = new HomePage(driver);

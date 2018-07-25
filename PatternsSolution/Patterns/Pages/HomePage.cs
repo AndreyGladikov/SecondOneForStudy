@@ -19,10 +19,9 @@ namespace Patterns.Pages
 
         public HomePage(IWebDriver driver)
         {
-            //this.driver = driver;
             PageFactory.InitElements(driver, this);
         }
-        
+
         public void LogOut()
         {
             UserName.Click();
@@ -31,7 +30,7 @@ namespace Patterns.Pages
 
         public string getText()
         {
-           return UserName.Text;
+            return UserName.Text;
         }
     }
 }
