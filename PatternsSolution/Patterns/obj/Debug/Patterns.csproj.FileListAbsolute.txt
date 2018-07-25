@@ -1,0 +1,10 @@
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\Patterns.dll
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\Patterns.pdb
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\WebDriver.dll
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\WebDriver.Support.dll
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\WebDriver.xml
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\bin\Debug\WebDriver.Support.xml
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\obj\Debug\Patterns.dll
+C:\Users\andreygladikov\Source\Repos\SecondOneForStudy\PatternsSolution\Patterns\obj\Debug\Patterns.pdb
